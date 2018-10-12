@@ -99,3 +99,19 @@ div > div :nth-child(3) {
 .text-center{
   color: rgb(20, 16, 236);
 }
+.section-header{
+	background-color:#b3ffff;
+    font-style:italic;
+	transition: ease-in-out, width .35s ease-in-out;
+	border: 2px solid yellow;
+	text-align: center;
+	color: #ff0000;
+}
+footer{
+	background-color:#bbff99;
+	border: 2px solid yellow;
+	transition: ease-in-out, width .35s ease-in-out;
+	font-size:100%;
+	font-style: oblique;
+	text-align: center;
+}
